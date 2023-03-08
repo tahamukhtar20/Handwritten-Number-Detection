@@ -1,6 +1,6 @@
 # Handwritten Number Detection with Keras
 
-This project uses Keras to detect handwritten numbers. It is a simple neural network model trained on the MNIST dataset of handwritten digits. The model is then used to predict the digit in a given image.
+This project uses Keras to detect handwritten numbers. It is a neural network model trained on the MNIST dataset of handwritten digits. The model is then used to predict the digit in a given image.
 
 ## Requirements
 
