@@ -17,9 +17,7 @@ To run this project, you will need the following dependencies:
 > git clone https://github.com/tahamukhtar20/Handwritten-Number-Detection.git
 2. Install the dependencies:
 > pip install keras tensorflow numpy
-3. Run the script:
-> python predict.py <path-to-image>
-Replace `<path-to-image>` with the path to the image you want to predict.
+3. Run the notebook and add the filename of the number to be detected.
 
 ## Results
 
